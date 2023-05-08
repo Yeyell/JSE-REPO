@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    Font: bold 30px Arial;
+}
+header,nav,footer{
+    display: block;
+}
+body{
+    display:block;
+}
